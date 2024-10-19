@@ -13,7 +13,7 @@ Other than software, I love music, sports, and traveling. I find history and cul
 
 #### => MoonBootsApp: we provide a private community space for creators: https://moonbootsapp.com
 
-#### => MVP Launch (coming soon): turning ideas into MVPs in 2-4 weeks
+#### => MVP Launch (coming soon): launching ideas into the market in 2-4 weeks
 
 
 ## 📫 Sources:
