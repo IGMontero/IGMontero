@@ -16,8 +16,9 @@ Other than software, I love music, sports, and traveling. I find history and cul
 ## 📫 Sources:
 
 - LinkedIn: https://www.linkedin.com/in/igmontero/
-- Discord: IGMontero
+- Discord: igmonterodev
 - Radical Online: https://radical-online.com
+- Links: https://linktr.ee/IGMontero
 
 
 <!--
