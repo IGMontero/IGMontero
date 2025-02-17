@@ -1,23 +1,21 @@
 ## Welcome! 👋
 
-I'm Ignacio, a freelance software developer based in Montevideo, Uruguay (UTC-3).
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=IGMontero)
 
-I love building complex systems that work by themselves.
-Lately, I've been leaning towards a more administrative/managerial part of software development, architecting scalable systems and doing project management while assuring that the quality of the end product is excellent.
+I'm Ignacio, a software engineer based in Uruguay with +7 years of professional experience.
 
-Other than software, I love music, sports, and traveling. I find history and culture fascinating.
+Specialized in:
+- 🔭 Full-stack Web applications in React (Next) & Node
+- 📱 Mobile Apps in Flutter / React Native
+- 👨‍💻 DevOps in AWS / Google Cloud
 
-## 🎯 Main projects:
-
-#### => Radical Online: we build custom web applications for start-ups and entrepreneurs: https://radical-online.com
-
-#### => MoonBootsApp: we provide a private community space for creators: https://moonbootsapp.com
+Currently managing a team of developers while working on many projects in the HealthTech, Crypto, and FinTech spaces.
 
 ## 📫 Sources:
 
 - LinkedIn: https://www.linkedin.com/in/igmontero/
 - Discord: igmonterodev
-- Radical Online: https://radical-online.com
+- My Agency Radical Online: https://radical-online.com
 - Links: https://linktr.ee/IGMontero
 
 
