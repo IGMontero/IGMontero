@@ -1,8 +1,9 @@
-## Welcome! 👋
-
+## Welcome 👋
+<!--
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=IGMontero)
+-->
 
-I'm Ignacio, a software engineer based in Uruguay with +7 years of professional experience.
+I'm Ignacio, a Software Engineer based in Uruguay with +7 years of professional experience.
 
 Specialized in:
 - 🔭 Full-stack Web applications in React (Next) & Node
