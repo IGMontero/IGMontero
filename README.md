@@ -3,21 +3,12 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=IGMontero)
 -->
 
-I'm Ignacio, a Software Engineer based in Uruguay with +7 years of professional experience.
-
-Specialized in:
-- 🔭 Full-stack Web applications in React (Next) & Node
-- 📱 Mobile Apps in Flutter / React Native
-- 👨‍💻 DevOps in AWS / Google Cloud
-
-Currently managing a team of developers while working on many projects in the HealthTech, Crypto, and FinTech spaces.
-
 ## 📫 Sources:
 
 - LinkedIn: https://www.linkedin.com/in/igmontero/
 - Discord: igmonterodev
-- My Agency Radical Online: https://radical-online.com
-- Links: https://linktr.ee/IGMontero
+- My Agency: https://radical-online.com
+- Website: https://igmontero.com
 
 
 <!--
